@@ -1,0 +1,28 @@
+{
+  "Triteta": [
+    {
+      "nome": "Rodrigo",
+      "forca": 350
+    }
+  ],
+  "Ventus": [],
+  "Firus": [
+    {
+      "nome": "Hutao",
+      "forca": 5000
+    }
+  ],
+  "Aqus": [],
+  "Roma": [
+    {
+      "nome": "Umu",
+      "forca": 99999
+    }
+  ],
+  "Tenryu": [
+    {
+      "nome": "Thiago",
+      "forca": 300
+    }
+  ]
+}
