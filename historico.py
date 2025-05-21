@@ -16,7 +16,6 @@ def carregar_historico():
             return []
     return []
 
-
 def salvar_historico(historico):
     with open(ARQUIVO_HISTORICO, 'w', encoding='utf-8') as f:
         json.dump(historico, f, indent=4, ensure_ascii=False)
@@ -27,7 +26,6 @@ def registrar_batalha(time1, time2, vencedor):
         'time1': time1,
         'time2': time2,
         'vencedor': vencedor,
-        
     }
     historico.append(registro)
     salvar_historico(historico)
@@ -38,6 +36,5 @@ def exibir_historico():
         print("Nenhuma batalha registrada.")
         return
     print("\n=== HISTÓRICO DE BATALHAS ===")
-    for idx, batalha in enumerate(historico, 1):
-        print(f"{idx}. {batalha['time1']} vs {batalha['time2']} - Vencedor: {batalha['vencedor']}")
-
+    for numero_batalha, batalha in enumerate(historico, 1):
+        print(f"{numero_batalha}. {batalha['time1']} vs {batalha['time2']} - Vencedor: {batalha['vencedor']}")
