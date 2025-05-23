@@ -1,0 +1,42 @@
+[
+    {
+        "time1": "Firus",
+        "time2": "Roma",
+        "vencedor": "Roma"
+    },
+    {
+        "time1": "Teste1",
+        "time2": "Teste2",
+        "vencedor": "Empate"
+    },
+    {
+        "time1": "Teste1",
+        "time2": "Teste2",
+        "vencedor": "Teste2"
+    },
+    {
+        "time1": "god",
+        "time2": "zeus",
+        "vencedor": "god"
+    },
+    {
+        "time1": "god",
+        "time2": "zeus",
+        "vencedor": "god"
+    },
+    {
+        "time1": "god",
+        "time2": "zeus",
+        "vencedor": "god"
+    },
+    {
+        "time1": "god",
+        "time2": "zeus",
+        "vencedor": "god"
+    },
+    {
+        "time1": "god",
+        "time2": "zeus",
+        "vencedor": "god"
+    }
+]

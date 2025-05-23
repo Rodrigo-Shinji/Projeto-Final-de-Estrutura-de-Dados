@@ -1,0 +1,31 @@
+{
+  "Teste1": [
+    {
+      "nome": "hulk",
+      "forca": 2000,
+      "elemento": "luz"
+    }
+  ],
+  "Teste2": [
+    {
+      "nome": "hulk2",
+      "forca": 2000,
+      "elemento": "trevas"
+    }
+  ],
+  "god": [
+    {
+      "nome": "Kratos",
+      "forca": 2000,
+      "elemento": "vento"
+    }
+  ],
+  "A": [],
+  "B": [
+    {
+      "nome": "a2",
+      "forca": 200,
+      "elemento": "luz"
+    }
+  ]
+}

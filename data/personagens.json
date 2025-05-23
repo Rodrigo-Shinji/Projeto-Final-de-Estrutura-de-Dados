@@ -1,0 +1,26 @@
+{
+    "hulk2": {
+        "forca": 2000,
+        "elemento": "trevas"
+    },
+    "hulk red": {
+        "forca": 3400,
+        "elemento": "agua"
+    },
+    "Kratos": {
+        "forca": 2000,
+        "elemento": "vento"
+    },
+    "zus": {
+        "forca": 2020,
+        "elemento": "luz"
+    },
+    "a2": {
+        "forca": 200,
+        "elemento": "luz"
+    },
+    "a1": {
+        "forca": 2000,
+        "elemento": "agua"
+    }
+}
