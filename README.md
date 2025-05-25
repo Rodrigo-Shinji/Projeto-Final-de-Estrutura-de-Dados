@@ -1,6 +1,6 @@
 # Documentação do Projeto: Sistema de Torneio de RPG
 
-## 1. Informações sobre o Projeto
+## Informações sobre o Projeto
 
 ### Integrantes do Grupo:
 * **Nome Completo:** Guilherme Dorce de Britto - **RA:** 1991866
@@ -14,7 +14,7 @@ Cada personagem criado possui um nome, um nível de força e um elemento própri
 
 A incorporação dos elementos foi pensada para tornar as batalhas mais dinâmicas e estratégicas. No módulo de batalha, é possível escolher dois times para um confronto e, em seguida, selecionar um dos doze cenários pré-definidos. Cada cenário possui características únicas que afetam diretamente a força dos personagens com base em seus elementos. Por exemplo, o cenário "Vulcão" gera um bônus de ataque para personagens do tipo "Fogo" e "Terra", enquanto "Água" e "Vento" recebem penalidades, já que o cenário não os beneficia. Portanto, antes de iniciar a batalha, é essencial que os usuários pensem em composições de times que possam desfrutar da melhor eficiência em cada cenário.
 
-## 2. Requisitos para Execução do Sistema
+## Requisitos para Execução do Sistema
 
 Para executar o sistema de Torneio de Personagens, você precisará ter o Python instalado em sua máquina. O projeto foi desenvolvido e testado com **Python 3.8+**.
 
@@ -49,7 +49,7 @@ A pasta `data/` será criada automaticamente na primeira execução do sistema, 
     ```
 3.  O sistema apresentará um menu principal com opções para gerenciar personagens, gerenciar times, iniciar batalhas e visualizar o histórico.
 
-## 3. Explicação Detalhada do Sistema
+## Explicação Detalhada do Sistema
 
 ### Funcionalidades Principais:
 * **Gerenciamento de Personagens:** Permite criar novos personagens com nome, força e elemento, além de visualizar, editar (nome, força, elemento) e excluir personagens existentes. Os dados são salvos para uso futuro.
@@ -79,7 +79,7 @@ O sistema é modular, dividido em vários arquivos Python, cada um responsável 
 | Terra             | Vento                        | Fogo                             |
 | Trevas            | Luz                          | Terra                            |
 
-## 4. Justificativa da Escolha de Cada Estrutura de Dados
+## Justificativa da Escolha de Cada Estrutura de Dados
 
 A escolha das estruturas de dados foi estratégica, visando otimizar o desempenho, a organização e a integridade dos dados, além de demonstrar o uso de diferentes paradigmas de coleções em Python.
 
