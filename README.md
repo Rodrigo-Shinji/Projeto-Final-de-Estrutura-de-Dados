@@ -8,7 +8,7 @@
 * **Nome Completo:** Thiago Tsuyoshi Okada Aoki - **RA:** 2002282
 
 ### Temática do Projeto:
-A ideia central do projeto é criar um campeonato de RPG textual, onde cada participante pode criar e gerenciar seus próprios personagens, formar times e, por fim, colocá-los em batalhas para decidir um vencedor.
+A ideia central do projeto é criar um campeonato de RPG, onde cada participante pode criar e gerenciar seus próprios personagens, formar times e, por fim, colocá-los em batalhas para decidir um vencedor.
 
 Cada personagem criado possui um nome, um nível de força e um elemento próprio, alocado a ele dentre as opções pré-definidas (fogo, terra, luz, trevas, água, vento). A escolha de um elemento para cada personagem é obrigatória no momento de sua criação.
 
