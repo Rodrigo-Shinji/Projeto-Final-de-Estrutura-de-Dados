@@ -23,7 +23,7 @@ O projeto utiliza apenas bibliotecas padrão do Python (como `json`, `os`, `date
 
 ### Estrutura de Pastas:
 Certifique-se de que a estrutura de arquivos e pastas do projeto seja mantida conforme o original:
-
+```
 seu_projeto/
 ├── batalha.py
 ├── cenarios.py
@@ -38,7 +38,7 @@ seu_projeto/
 ├── personagens.json (será criado automaticamente)
 ├── historico_batalhas.json (será criado automaticamente)
 └── times.json (será criado automaticamente)
-
+```
 A pasta `data/` será criada automaticamente na primeira execução do sistema, caso não exista, e conterá os arquivos JSON para persistência dos dados.
 
 ### Como Executar:
