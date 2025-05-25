@@ -24,21 +24,6 @@ O projeto utiliza apenas bibliotecas padrão do Python (como `json`, `os`, `date
 ### Estrutura de Pastas:
 Certifique-se de que a estrutura de arquivos e pastas do projeto seja mantida conforme o original:
 
-
-Excelente! A imagem que você anexou agora mostra a estrutura de pastas e arquivos no formato de árvore de diretórios que é o ideal para um README.md.
-
-As linhas com ├── (ou o que parece ser um traço horizontal e uma barra vertical, dependendo da fonte e do renderizador) e └── com o espaçamento adequado criam uma representação visual clara da hierarquia.
-
-A única coisa que você precisa se certificar é que todo esse bloco de texto (da linha seu_projeto/ até times.json (será criado automaticamente)) esteja dentro de um bloco de código Markdown.
-
-Como deve estar no seu arquivo README.md:
-
-Markdown
-
-### Estrutura de Pastas:
-
-Certifique-se de que a estrutura de arquivos e pastas do projeto seja mantida conforme o original:
-
 seu_projeto/
 ├── batalha.py
 ├── cenarios.py
