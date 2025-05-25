@@ -35,9 +35,9 @@ seu_projeto/
 ├── times.py
 ├── utils.py
 └── data/
-├── personagens.json (será criado automaticamente)
-├── historico_batalhas.json (será criado automaticamente)
-└── times.json (será criado automaticamente)
+    ├── personagens.json (será criado automaticamente)
+    ├── historico_batalhas.json (será criado automaticamente)
+    └── times.json (será criado automaticamente)
 
 A pasta `data/` será criada automaticamente na primeira execução do sistema, caso não exista, e conterá os arquivos JSON para persistência dos dados.
 
