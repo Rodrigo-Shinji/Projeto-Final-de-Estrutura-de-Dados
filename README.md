@@ -45,7 +45,7 @@ A pasta `data/` será criada automaticamente na primeira execução do sistema, 
 1.  Navegue até o diretório raiz do projeto (onde o arquivo `main.py` está localizado) usando o terminal ou prompt de comando.
 2.  Execute o arquivo `main.py` utilizando o interpretador Python:
     ```
-    python main.py
+    main.py
     ```
 3.  O sistema apresentará um menu principal com opções para gerenciar personagens, gerenciar times, iniciar batalhas e visualizar o histórico.
 
