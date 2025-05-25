@@ -1,0 +1,54 @@
+{
+  "Teste1": [
+    {
+      "nome": "hulk",
+      "forca": 2000,
+      "elemento": "luz"
+    }
+  ],
+  "Teste2": [
+    {
+      "nome": "hulk2",
+      "forca": 2000,
+      "elemento": "trevas"
+    }
+  ],
+  "A": [],
+  "B": [
+    {
+      "nome": "a2",
+      "forca": 200,
+      "elemento": "luz"
+    }
+  ],
+  "Pyro": [
+    {
+      "nome": "hutao",
+      "forca": 9999,
+      "elemento": "fogo"
+    }
+  ],
+  "vral": [],
+  "honkai": [
+    {
+      "nome": "mei",
+      "forca": 8000,
+      "elemento": "luz"
+    }
+  ],
+  "0": [],
+  "kaslana": [
+    {
+      "nome": "kiana",
+      "forca": 7777,
+      "elemento": "trevas"
+    }
+  ],
+  "tsubasa": [
+    {
+      "nome": "oliver",
+      "forca": 4566,
+      "elemento": "fogo"
+    }
+  ]
+}

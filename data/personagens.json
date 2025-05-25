@@ -1,0 +1,42 @@
+{
+    "hulk2": {
+        "forca": 2000,
+        "elemento": "trevas"
+    },
+    "hulk red": {
+        "forca": 3400,
+        "elemento": "agua"
+    },
+    "zus": {
+        "forca": 2020,
+        "elemento": "luz"
+    },
+    "hutao": {
+        "forca": 9999,
+        "elemento": "fogo"
+    },
+    "furina": {
+        "forca": 5000,
+        "elemento": "agua"
+    },
+    "kleitin": {
+        "forca": 6969,
+        "elemento": "luz"
+    },
+    "mei": {
+        "forca": 8000,
+        "elemento": "luz"
+    },
+    "kiana": {
+        "forca": 7777,
+        "elemento": "trevas"
+    },
+    "bronya": {
+        "forca": 5000,
+        "elemento": "vento"
+    },
+    "oliver": {
+        "forca": 4566,
+        "elemento": "fogo"
+    }
+}
