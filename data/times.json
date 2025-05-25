@@ -1,0 +1,46 @@
+{
+  "Guris": [
+    {
+      "nome": "Rodrigo",
+      "forca": 240,
+      "elemento": "trevas"
+    },
+    {
+      "nome": "Guilherme",
+      "forca": 230,
+      "elemento": "terra"
+    },
+    {
+      "nome": "Thiago",
+      "forca": 230,
+      "elemento": "luz"
+    },
+    {
+      "nome": "Esteven",
+      "forca": 220,
+      "elemento": "agua"
+    }
+  ],
+  "Beserk": [
+    {
+      "nome": "Sara",
+      "forca": 300,
+      "elemento": "vento"
+    },
+    {
+      "nome": "Nathan",
+      "forca": 150,
+      "elemento": "luz"
+    },
+    {
+      "nome": "Oliver",
+      "forca": 500,
+      "elemento": "vento"
+    },
+    {
+      "nome": "Gus",
+      "forca": 700,
+      "elemento": "fogo"
+    }
+  ]
+}

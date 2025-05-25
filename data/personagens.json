@@ -1,0 +1,34 @@
+{
+    "Rodrigo": {
+        "forca": 240,
+        "elemento": "trevas"
+    },
+    "Guilherme": {
+        "forca": 230,
+        "elemento": "terra"
+    },
+    "Thiago": {
+        "forca": 230,
+        "elemento": "luz"
+    },
+    "Esteven": {
+        "forca": 220,
+        "elemento": "agua"
+    },
+    "Nathan": {
+        "forca": 150,
+        "elemento": "luz"
+    },
+    "Sara": {
+        "forca": 300,
+        "elemento": "vento"
+    },
+    "Oliver": {
+        "forca": 500,
+        "elemento": "vento"
+    },
+    "Gus": {
+        "forca": 700,
+        "elemento": "fogo"
+    }
+}
